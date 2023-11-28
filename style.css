@@ -91,6 +91,7 @@ nav ul li a {
     width: 100%;
     display: flex;
     flex-direction: column;
+
 }
 
 .content{
@@ -110,6 +111,9 @@ gap: 05px;
     font-size: 14px;
 }
 
+.right-side a {
+    gap: 5px:
+}
 .price {
     font-size: 16px;
     font-weight: 700;
